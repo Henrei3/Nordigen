@@ -1,0 +1,2 @@
+{"id":"SG_SOGEFRPP","name":"Société Générale","bic":"SOGEFRPP","transaction_total_days":"180","countries":["FR"],"logo":"https://cdn.nordigen.com/ais/SG_SOGEFRPP.png" }
+
